@@ -159,7 +159,7 @@ main{
     main{
         min-width: 310px;
         max-width: 400px;
-        max-height: 75%;
+        min-height: 60%;
 
     }
   
